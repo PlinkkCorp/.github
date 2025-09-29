@@ -85,7 +85,7 @@ Tu souhaites contribuer à Plinkk ? Voici comment :
 4. Soumettre une Pull Request.  
 5. Un membre de l’équipe fera la revue et discutera avec toi des éventuelles corrections.  
 
-Merci de suivre le **code de conduite**.
+Merci de suivre le [**code de conduite**](./CODE_OF_CONDUCT.md).
 
 ---
 
