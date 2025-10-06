@@ -46,7 +46,7 @@ Les comportements suivants ne seront **pas tolérés** :
 En cas de problème, de comportement abusif ou de non-respect de ce code, merci de le signaler :
 
 - Via **GitHub Issues** (section dédiée).  
-- Par email à l’équipe de modération : **contact@plinkkcorp.org** (à adapter).  
+- Par email à l’équipe de modération : **contact@plinkkcorp.org**.  
 
 L’équipe s’engage à enquêter de manière rapide, juste et confidentielle.  
 Des mesures peuvent aller de l’avertissement à l’exclusion définitive de la communauté.
